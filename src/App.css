@@ -36,3 +36,37 @@
     transform: rotate(360deg);
   }
 }
+.idpicture{
+  width:15vw;
+  height: auto;
+}
+.idCard{
+  display: flex;
+  flex-direction: row;
+  border-color: black;
+  border-style: solid;
+  border-width: 1px;
+  margin: 10px;
+}
+
+.visapicture{
+  width: 5vw;
+  height: auto;
+}
+
+.cardsSection{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.creditCardStyles{
+  width: 30vw;
+  height: 12vw;
+  margin: 10px;
+  padding: 8px;  
+}
+.drivercard{
+  background-color: black;
+  color: white;
+}
